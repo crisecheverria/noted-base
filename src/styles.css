@@ -22,11 +22,11 @@ a:visited {
 a:hover {
   background-color: pink;
   color: black;
-  border-color: salmon;
+  border-color: palevioletred;
 }
 
 a:active {
-  background-color: palevioletred;
+  background-color: salmon;
   color: black;
 }
 
